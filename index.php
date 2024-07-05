@@ -7,7 +7,7 @@ use Model\StudentRepository;
    $lista = $sRep->allStudents();
 ?>
 
-<h1> Listagem de usuários </h1>
+<h1> Listagem de alunos </h1>
 
 <table border = "3">
 
